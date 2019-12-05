@@ -4,7 +4,7 @@ Original TensorFlow 2.0 implementation of gamma capsule networks (https://arxiv.
 If you find this code useful in your research, please cite:
 
     @misc{peer2019gammacapsules,
-        title={Increasing the adversarial robustness and explainability of capsule networks with $γ$-capsules},
+        title={Increasing the adversarial robustness and explainability of capsule networks with $\gamma$-capsules},
         author={David Peer and Sebastian Stabinger and Antonio Rodriguez-Sanchez},
         year={2018},
         eprint={1812.09707},
