@@ -9,6 +9,7 @@ try:
 except ImportError:
     pass
 
+import os
 import sys
 import time
 import math
