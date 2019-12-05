@@ -1,6 +1,6 @@
 # Gamma capsule networks
 
-Original TensorFlow 2.0 implementation of gamma capsule networks (https://arxiv.org/pdf/1812.09707.pdf).
+Original TensorFlow 2.0 (multi-gpu) implementation of gamma capsule networks (https://arxiv.org/pdf/1812.09707.pdf).
 If you find this code useful in your research, please cite:
 
     @misc{peer2019gammacapsules,
